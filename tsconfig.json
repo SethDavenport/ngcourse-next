@@ -8,6 +8,8 @@
     "removeComments": false,
     "sourceMap": true
   },
+  "compileOnSave": false,
+  "buildOnSave": false,
   "exclude": [
     "node_modules",
     "app/__build"
